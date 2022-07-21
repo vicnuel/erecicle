@@ -1,0 +1,21 @@
+body{
+    background-color: #F0F0F5; 
+    color:#322153;
+    font-family: 'Ubuntu';
+    font-style: normal; 
+}
+.P-title{
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 64px;
+   
+}
+.P-normal-text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #A8A8B3;    
+}
+.P-green-theme{
+    background: #34CB79;
+}
